@@ -1,6 +1,6 @@
 
 	hello world
-	nihao shijie
+	nihao shijie  GPL hujian add
 	git is free software
 
 	version control system
