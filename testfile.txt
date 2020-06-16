@@ -14,5 +14,10 @@
 	yangqi nihao 
 	
 	dev add branch
+<<<<<<< HEAD
 	
 	create hujian again quick
+=======
+
+	create hujian work
+>>>>>>> hujian
