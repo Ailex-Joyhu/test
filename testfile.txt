@@ -6,6 +6,7 @@
 	version control system
 	
 	Git has a mutable index called stage
+<<<<<<< Updated upstream
 
 	git tracks add
 	
@@ -21,3 +22,9 @@
 
 	create hujian work
 >>>>>>> hujian
+=======
+	
+	git tracks changes
+>>>>>>> Stashed changes
+
+	Ailex food
