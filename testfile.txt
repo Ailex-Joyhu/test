@@ -8,3 +8,6 @@
 	Git has a mutable index called stage
 
 	git tracks add
+	
+	one xiugai
+	
