@@ -4,3 +4,5 @@
 	git is free software
 
 	version control system
+	
+	Git has a mutable index called stage
